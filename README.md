@@ -4,12 +4,12 @@ Official release distribution repository for **Veil** — the hardware-enforced,
 
 ---
 
-## 📥 Direct Downloads (v0.1.0)
+## 📥 Direct Downloads (v0.2.0)
 
 | Distribution | Download Link | SHA-256 Checksum |
 | :--- | :--- | :--- |
-| **Latest Release (Recommended)** | [**Download Veil.dmg**](https://github.com/maheshchambhare/veil-release/raw/main/Veil.dmg) | `b28d2ebc23566fff4476885ea9bce47f2e87dfd26a70f6cdcd30819f1c342e38` |
-| **Versioned Release (v0.1.0)** | [**Download Veil-v0.1.0-macOS.dmg**](https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.1.0-macOS.dmg) | `b28d2ebc23566fff4476885ea9bce47f2e87dfd26a70f6cdcd30819f1c342e38` |
+| **Latest Release (Recommended)** | [**Download Veil.dmg**](https://github.com/maheshchambhare/veil-release/raw/main/Veil.dmg) | `49b8f9c2d6a93c005c8a36ee9d46255913006627a95eb6b61eae187053071a8f` |
+| **Versioned Release (v0.2.0)** | [**Download Veil-v0.2.0-macOS.dmg**](https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.2.0-macOS.dmg) | `49b8f9c2d6a93c005c8a36ee9d46255913006627a95eb6b61eae187053071a8f` |
 
 ---
 
@@ -32,13 +32,15 @@ shasum -a 256 Veil.dmg
 ```
 Expected hash:
 ```
-b28d2ebc23566fff4476885ea9bce47f2e87dfd26a70f6cdcd30819f1c342e38
+49b8f9c2d6a93c005c8a36ee9d46255913006627a95eb6b61eae187053071a8f
 ```
 
 ---
 
-## 🚀 What's New in v0.1.0
+## 🚀 What's New in v0.2.0
 
+- **Software License & Hardware Key Display**: Dedicated Settings card displaying hardware-bound license activation keys with one-tap clipboard copy and conceal/reveal privacy controls.
+- **Sovereign In-App Update Engine**: Manual zero-telemetry update checks directly against verified public GitHub releases with live SHA-256 verification and atomic DMG installation.
 - **Unified Native Authentication**: Full support for Touch ID, Apple Watch, and native Mac login passwords across all Apple Silicon Macs (including Mac mini, Mac Studio, and clamshell setups).
 - **Instant Auto-Unlock on Launch**: App automatically prompts for hardware authentication as soon as you open it—zero required button clicks.
 - **In-Place File Shielding (VIPSE)**: AES-256-GCM file sealing preserves exact file paths, inodes, and Finder extended attributes.

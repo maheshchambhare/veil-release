@@ -1,13 +1,13 @@
 {
-  "version": "0.1.0",
-  "build": "1",
+  "version": "0.2.0",
+  "build": "2",
   "releaseDate": "2026-09-06",
   "dmgFile": "Veil.dmg",
-  "versionedDmgFile": "Veil-v0.1.0-macOS.dmg",
+  "versionedDmgFile": "Veil-v0.2.0-macOS.dmg",
   "downloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil.dmg",
-  "versionedDownloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.1.0-macOS.dmg",
-  "sha256": "b28d2ebc23566fff4476885ea9bce47f2e87dfd26a70f6cdcd30819f1c342e38",
+  "versionedDownloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.2.0-macOS.dmg",
+  "sha256": "49b8f9c2d6a93c005c8a36ee9d46255913006627a95eb6b61eae187053071a8f",
   "minOSVersion": "14.0",
   "architectures": ["arm64", "x86_64"],
-  "releaseNotes": "Unified native authentication (Touch ID, Apple Watch, Mac password), Apple Silicon Secure Enclave hardware key binding on all Macs (including Mac mini & Mac Studio), instant automatic vault unlock on application launch, VIPSE in-place AES-256-GCM file encryption, and in-memory CLI execution."
+  "releaseNotes": "Added Sovereign Software Key & Lifetime License Activation in Settings. Includes hardware enclave tethering, real-time key concealment, and one-tap clipboard copy."
 }
