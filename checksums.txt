@@ -1,3 +1,3 @@
 # SHA-256 Checksums for Veil macOS Production Releases
-49b8f9c2d6a93c005c8a36ee9d46255913006627a95eb6b61eae187053071a8f  Veil.dmg
-49b8f9c2d6a93c005c8a36ee9d46255913006627a95eb6b61eae187053071a8f  Veil-v0.2.0-macOS.dmg
+6b1bb1e8f55d91cfbcbc719213c939e1de69f85bcf0e3450051cb7e502771e4e  Veil.dmg
+6b1bb1e8f55d91cfbcbc719213c939e1de69f85bcf0e3450051cb7e502771e4e  Veil-v0.3.0-macOS.dmg

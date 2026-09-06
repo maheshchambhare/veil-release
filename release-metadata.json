@@ -1,13 +1,13 @@
 {
-  "version": "0.2.0",
-  "build": "2",
+  "version": "0.3.0",
+  "build": "3",
   "releaseDate": "2026-09-06",
   "dmgFile": "Veil.dmg",
-  "versionedDmgFile": "Veil-v0.2.0-macOS.dmg",
+  "versionedDmgFile": "Veil-v0.3.0-macOS.dmg",
   "downloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil.dmg",
-  "versionedDownloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.2.0-macOS.dmg",
-  "sha256": "49b8f9c2d6a93c005c8a36ee9d46255913006627a95eb6b61eae187053071a8f",
+  "versionedDownloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.3.0-macOS.dmg",
+  "sha256": "6b1bb1e8f55d91cfbcbc719213c939e1de69f85bcf0e3450051cb7e502771e4e",
   "minOSVersion": "14.0",
   "architectures": ["arm64", "x86_64"],
-  "releaseNotes": "Added Sovereign Software Key & Lifetime License Activation in Settings. Includes hardware enclave tethering, real-time key concealment, and one-tap clipboard copy."
+  "releaseNotes": "Refined Settings modal typography by removing double dash from footer tagline. Streamlined sovereign update lifecycle."
 }
