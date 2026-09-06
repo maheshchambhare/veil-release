@@ -1,13 +1,13 @@
 {
-  "version": "0.3.0",
-  "build": "3",
+  "version": "0.4.0",
+  "build": "4",
   "releaseDate": "2026-09-06",
   "dmgFile": "Veil.dmg",
-  "versionedDmgFile": "Veil-v0.3.0-macOS.dmg",
+  "versionedDmgFile": "Veil-v0.4.0-macOS.dmg",
   "downloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil.dmg",
-  "versionedDownloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.3.0-macOS.dmg",
-  "sha256": "6b1bb1e8f55d91cfbcbc719213c939e1de69f85bcf0e3450051cb7e502771e4e",
+  "versionedDownloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.4.0-macOS.dmg",
+  "sha256": "c4d0137b190a5093f486ce705765e772e0b44ba9eeffcfc963901ca6d5fab9ff",
   "minOSVersion": "14.0",
   "architectures": ["arm64", "x86_64"],
-  "releaseNotes": "Refined Settings modal typography by removing double dash from footer tagline. Streamlined sovereign update lifecycle."
+  "releaseNotes": "Fixed single-instance application relaunch, eliminated duplicate dock icons, and resolved bundle version persistence."
 }

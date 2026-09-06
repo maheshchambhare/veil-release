@@ -4,12 +4,12 @@ Official release distribution repository for **Veil** — the hardware-enforced,
 
 ---
 
-## 📥 Direct Downloads (v0.3.0)
+## 📥 Direct Downloads (v0.4.0)
 
 | Distribution | Download Link | SHA-256 Checksum |
 | :--- | :--- | :--- |
-| **Latest Release (Recommended)** | [**Download Veil.dmg**](https://github.com/maheshchambhare/veil-release/raw/main/Veil.dmg) | `6b1bb1e8f55d91cfbcbc719213c939e1de69f85bcf0e3450051cb7e502771e4e` |
-| **Versioned Release (v0.3.0)** | [**Download Veil-v0.3.0-macOS.dmg**](https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.3.0-macOS.dmg) | `6b1bb1e8f55d91cfbcbc719213c939e1de69f85bcf0e3450051cb7e502771e4e` |
+| **Latest Release (Recommended)** | [**Download Veil.dmg**](https://github.com/maheshchambhare/veil-release/raw/main/Veil.dmg) | `c4d0137b190a5093f486ce705765e772e0b44ba9eeffcfc963901ca6d5fab9ff` |
+| **Versioned Release (v0.4.0)** | [**Download Veil-v0.4.0-macOS.dmg**](https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.4.0-macOS.dmg) | `c4d0137b190a5093f486ce705765e772e0b44ba9eeffcfc963901ca6d5fab9ff` |
 
 ---
 
@@ -32,12 +32,12 @@ shasum -a 256 Veil.dmg
 ```
 Expected hash:
 ```
-6b1bb1e8f55d91cfbcbc719213c939e1de69f85bcf0e3450051cb7e502771e4e
+c4d0137b190a5093f486ce705765e772e0b44ba9eeffcfc963901ca6d5fab9ff
 ```
 
 ---
 
-## 🚀 What's New in v0.3.0
+## 🚀 What's New in v0.4.0
 
 - **Software License & Hardware Key Display**: Dedicated Settings card displaying hardware-bound license activation keys with one-tap clipboard copy and conceal/reveal privacy controls.
 - **Sovereign In-App Update Engine**: Manual zero-telemetry update checks directly against verified public GitHub releases with live SHA-256 verification and atomic DMG installation.
