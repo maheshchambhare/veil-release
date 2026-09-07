@@ -1,12 +1,12 @@
 {
-  "version": "0.4.0",
-  "build": "4",
+  "version": "0.5.0",
+  "build": "5",
   "releaseDate": "2026-09-07",
   "dmgFile": "Veil.dmg",
-  "versionedDmgFile": "Veil-v0.4.0-macOS.dmg",
+  "versionedDmgFile": "Veil-v0.5.0-macOS.dmg",
   "downloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil.dmg",
-  "versionedDownloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.4.0-macOS.dmg",
-  "sha256": "0e8324b4458cdda551a8cc0fef6abd0623550a09224684d6eea80d7834c33623",
+  "versionedDownloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.5.0-macOS.dmg",
+  "sha256": "4b66d1fe266a5d73d3b5ea96cd17778d43e368bb53e2993259d538948c2f0e3c",
   "minOSVersion": "14.0",
   "architectures": ["arm64", "x86_64"],
   "releaseNotes": "Production Apple Notarized Release: Developer ID signed, Gatekeeper verified, and stapled for seamless offline installation."
