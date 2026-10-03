@@ -1,13 +1,13 @@
 {
-  "version": "0.6.0",
-  "build": "6",
-  "releaseDate": "2026-09-13",
+  "version": "0.7.0",
+  "build": "7",
+  "releaseDate": "2026-10-03",
   "dmgFile": "Veil.dmg",
-  "versionedDmgFile": "Veil-v0.6.0-macOS.dmg",
+  "versionedDmgFile": "Veil-v0.7.0-macOS.dmg",
   "downloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil.dmg",
-  "versionedDownloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.6.0-macOS.dmg",
-  "sha256": "88634b04c1320201d01ae816740f8971ce129bdefe88fbe339d49a90c45829ab",
+  "versionedDownloadUrl": "https://github.com/maheshchambhare/veil-release/raw/main/Veil-v0.7.0-macOS.dmg",
+  "sha256": "ee54bd141613f9951d962b22cf0a6fc00f2c4e484912e6e694414e422e7e0d24",
   "minOSVersion": "14.0",
   "architectures": ["arm64", "x86_64"],
-  "releaseNotes": "Production Apple Notarized Release v0.6.0: Enhanced Biometric Secret Notepad styling persistence, Developer ID signed, Gatekeeper verified, and stapled for seamless offline installation."
+  "releaseNotes": "Production Apple Notarized Release v0.7.0: Performance optimization in Biometric Secret Notepad, non-contiguous lazy layout for large multi-page notes, and instant Touch ID decryption."
 }
